@@ -18,7 +18,7 @@ Database is MongoDB
 - default port `27017`
 
 ## server
-- localhost:8080/swagger-ui.html#/ *it includes GUI for using api's*
+- localhost:8080/swagger-ui.html#/  ->  *it includes GUI for using api's*
 - localhost:8080/api
 
 *Use postman or swagger url to GET, POST, PUT and DELETE*
